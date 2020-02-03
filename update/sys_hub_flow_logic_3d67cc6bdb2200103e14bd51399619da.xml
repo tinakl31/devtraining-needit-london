@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">1f9ec0dbdbe200103e14bd51399619a9</block>
+        <comment/>
+        <connected_to>4269afdc-35a7-4c57-b240-725879904d2a</connected_to>
+        <display_text/>
+        <flow display_value="Needit Fullfillment">3a96370fdba200103e14bd513996193b</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-01-30 15:06:31</sys_created_on>
+        <sys_id>3d67cc6bdb2200103e14bd51399619da</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_3d67cc6bdb2200103e14bd51399619da</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-01-30 15:06:32</sys_updated_on>
+        <ui_id>d2c92501-38b0-471c-9933-eaafb6b26695</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3d67cc6bdb2200103e14bd51399619da"/>
+</record_update>
